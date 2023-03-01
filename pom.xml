@@ -11,7 +11,7 @@
     <groupId>com.portfolio</groupId>
     <artifactId>bma</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bma</name>
+    <name>bma-prueba</name>
     <description>Portfolio de BMA</description>
     <properties>
         <java.version>1.8</java.version>
